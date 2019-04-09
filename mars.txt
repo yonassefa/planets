@@ -1,1 +1,4 @@
-[A[B
+[A[Bgit diff mars.txt
+git commit -m 'update with climate concerns'
+git add mars.txt
+git diff mars --stages mars.txt[D[D[D[D[D[D[D[D[D[D[3ed[C[C[C[C[C[C[C[C[C[C
